@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: white;
+}
+
+#logo {
+    height: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
