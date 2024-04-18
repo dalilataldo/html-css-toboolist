@@ -82,3 +82,88 @@ ul {
     font-size: 18px;
     display: inline-block;
 }
+
+.bluebox {
+    margin: 20px;
+    height: 20px;
+    width: 80px;
+    border: 1px solid #14aaf5;
+    background-color: #14aaf5;
+    color: white;
+    font-size: 10px;
+    border-radius: 20%;
+    display: inline-block;
+    text-align: center;
+    line-height: 18px;
+}
+
+.purplebox {
+    margin: 20px;
+    height: 20px;
+    width: 80px;
+    border: 1px solid purple;
+    background-color: purple;
+    color: white;
+    font-size: 10px;
+    border-radius: 20%;
+    display: inline-block;
+    text-align: center;
+    line-height: 18px;
+
+}
+
+.greenbox {
+    margin: 20px;
+    height: 20px;
+    width: 80px;
+    border: 1px solid green;
+    background-color: green;
+    color: white;
+    font-size: 10px;
+    border-radius: 20%;
+    display: inline-block;
+    text-align: center;
+    line-height: 18px;
+}
+
+.orangebox {
+    margin: 20px;
+    height: 20px;
+    width: 80px;
+    border: 1px solid orange;
+    background-color: orange;
+    color: white;
+    font-size: 10px;
+    border-radius: 20%;
+    display: inline-block;
+    text-align: center;
+    line-height: 18px;
+}
+
+.pinkbox {
+    margin: 20px;
+    height: 20px;
+    width: 80px;
+    border: 1px solid #f514aa;
+    background-color: #f514aa;
+    color: white;
+    font-size: 10px;
+    border-radius: 20%;
+    display: inline-block;
+    text-align: center;
+    line-height: 18px;
+}
+
+.lightgreenbox {
+    margin: 20px;
+    height: 20px;
+    width: 80px;
+    border: 1px solid greenyellow;
+    background-color: greenyellow;
+    color: white;
+    font-size: 10px;
+    border-radius: 20%;
+    display: inline-block;
+    text-align: center;
+    line-height: 18px;
+}
